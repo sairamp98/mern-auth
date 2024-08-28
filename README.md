@@ -2,7 +2,7 @@
 
 This project is a full-stack authentication application built using the MERN stack (MongoDB, Express.js, React, Node.js) with Google Firebase integration for Google authentication. It serves as a boilerplate that can be easily integrated into your existing MERN application to provide robust authentication functionality.
 
-# Live link for the App: https://mern-auth-77bw.onrender.com/
+## Live link for the App: https://mern-auth-77bw.onrender.com/
 
 ## Features
 
